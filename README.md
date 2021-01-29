@@ -16,3 +16,5 @@ go run main.go
 ```
 
 So do GET to `localhost:3800` or if you selected PORT in `.env` do GET to `localhost:PORT` to test the api.
+
+To see your name in response send GET request to `?name=YourName`.
